@@ -9,3 +9,4 @@
  - [ ] Any takeaways from the exercises:
    - [ ] What was something new from these exercises you haven't see before 
    - [ ] If you solved an activity in a different manner than the answers, describe it!
+## hi
